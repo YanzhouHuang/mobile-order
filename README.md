@@ -1,8 +1,6 @@
 # mobile-order
 
-CS 396 Project 3
-Mobile App
-BY: Yanzhou Huang
+
 
 Summarize and Requirements
 This project was required to display menu for a restaurant. The menu should display price and quantity with each menu item. This app was required to enter the number of guest and split the final bill amount. This app also set a tip percent by dragging the thumb on the seek bar and Calculate the tip.
