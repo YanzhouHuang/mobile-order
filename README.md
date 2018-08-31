@@ -7,12 +7,7 @@ BY: Yanzhou Huang
 Summarize and Requirements
 This project was required to display menu for a restaurant. The menu should display price and quantity with each menu item. This app was required to enter the number of guest and split the final bill amount. This app also set a tip percent by dragging the thumb on the seek bar and Calculate the tip.
 
-Design Decisions
-Why I choose the Android because for me it is easy to test and debug. Also, the IOS system require to connect a mac computer. 
-I choose the Android Studio for develop because it is the platform create by google. Android Studio uses the quick growing Gradle build system that is so integrated, and Gradle is really a great tool. 
-Also, Android Studio is good for the UI part and the organization.  
-Finally, the android studio has the intelligent code editor. An intelligent code editor that helps you each step of the way.
-Android Studio is built on IntelliJ and is capable of advanced code completion, refactoring, and code analysis.
+
 This mobile app included 7 activity.
 	•	Main activity.
 It is the cover page for this app. It included three button. start new order, social and information.
